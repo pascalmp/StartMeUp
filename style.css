@@ -1,0 +1,36 @@
+#StartUpLogo{
+	width: 150px;
+}
+.page-header{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: white;
+    padding-bottom: 0px;
+}
+
+body {
+    background: url(images/Industrial-Office-Space.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#StartUpLogo{
+ margin-left: 20px;
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+#logoHeader{
+	margin-bottom: 0px;
+}
+
+/*#companyVideo{
+	width: 50%;
+	margin-left: 200px;
+}
+*/
+#frame{
+	text-align: right;
+}
+#backgroundImage{
+	background-size: cover;
+}
